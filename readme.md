@@ -5,6 +5,8 @@ This project is designed for web scraping and includes a simple data visualizati
 
 Please note that the visualization component of this project does not utilize all the scraped data, as the main focus has been on data collection.
 
+Look at the image in the project to see the ingame version.
+
 ## Usage
 To get started, follow these steps:
 
